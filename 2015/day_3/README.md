@@ -1,7 +1,3 @@
-# Day 1
-
-## Prompt
-
 ### Part 1
 
 Santa is delivering presents to an infinite two-dimensional grid of houses.

@@ -1,7 +1,3 @@
-# Day 1
-
-## Prompt
-
 ### Part 1
 
 Santa needs help figuring out which strings in his text file are naughty or nice.
