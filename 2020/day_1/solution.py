@@ -1,8 +1,8 @@
 class DayOne:
   def __init__(self, input_file, target_value):
-    self.input_file = input_file
+    self.input_file   = input_file
     self.target_value = target_value
-    self.input_array = None
+    self.input_array  = None
 
   def print_solutions(self):
     print(f'Part One: {self.part_one()}')
